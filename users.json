@@ -2,21 +2,11 @@
   {
     "id":1,
     "confirmpassword": "test",
-    "email": "ramkumar201189@gmail.com",
+    "email": "ramkumar@gmail.com",
     "firstName": "ram",
     "isactive": true,
     "lastName": "kumar",
     "mobile": 6754356765,
     "password": "test"
-  },
-  {
-    "id":2
-    "confirmpassword": "admin",
-    "email": "prabha@gmail.com",
-    "firstName": "prabaharan",
-    "isactive": true,
-    "lastName": "P",
-    "mobile": 456789343,
-    "password": "admin"
   }
 ]
